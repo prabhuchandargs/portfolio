@@ -1,2 +1,2 @@
-Digital Resume
-contact: prabhuchandargs@gmail.com
+Digital Resume. <br>
+<strong>Contact:</strong> prabhuchandargs@gmail.com
